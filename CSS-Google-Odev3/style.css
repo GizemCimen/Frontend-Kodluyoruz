@@ -1,0 +1,115 @@
+body {
+    height: 600px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+.header {
+    height: 20px;
+}
+.header li {
+    margin: 5px;
+    display: inline;
+}
+.header li.sag {
+    float: right;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.googlefoto {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+.search {
+    height: 50px;
+    margin-top: 20px;
+    width: 700px;
+    border-radius: 20px;
+    margin: auto;
+    border-style: none;
+    box-shadow: 1px 1px 1px 1px rgb(133, 133, 133);
+}
+
+.buton {
+    height: 100px;
+    margin-top: 10px;
+    width: 500px;
+    margin: auto;
+}
+
+.search li {
+    display: inline;
+}
+
+.search ul {
+    padding-left: 0%;
+    text-align: center;
+}
+
+.search textarea {
+    border-style: none;
+}
+
+.buton ul{
+    padding-left: 0%;
+    text-align: center;
+}
+
+.buton li{
+    display: inline;
+    padding: 10px;
+}
+
+.buton button {
+    width: 150px;
+    height: 36px;
+    margin-top: 30px;
+    background-color: #f2f2f2;
+    border-style: none;
+    font-size: 14px;
+    font-family: sans-serif;
+}
+
+.header button {
+    background-color: #1a73e8;
+    color: #fff;
+    width: 150px;
+    padding: 9px 23px;
+    border-style: none;
+}
+
+.header a {
+    text-decoration: none;
+}
+
+.header li.sol {
+    padding: 10px;
+}
+
+.footer ul {
+    padding-top: 15px;
+}
+
+.footer li{
+    display: inline;
+}
+
+
+.footer li.sag{
+    float: right;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.footer li.sol{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.footer {
+    background-color: #dadce0 ;
+    height:50px;
+    margin-top: 180px;
+}
