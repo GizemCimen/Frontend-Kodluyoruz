@@ -1,0 +1,95 @@
+body{
+    display: block;
+    margin:10px;
+    background-color: #fff;
+   
+}
+.center{
+    margin-left:auto;
+    margin-right:auto;
+
+    width:70%;
+    transform: translate();
+    
+}
+.googleform{
+    margin: 0 55px;
+    text-align: center;
+    width: auto;
+    height: auto;
+}
+.googleform img{
+    width:351px;
+    height: 113px;
+    display: table;
+    position: relative;
+    overflow: hidden;
+    text-align:center;
+    margin:0 auto;
+}
+.firstbox{
+
+    
+    width: 900px;
+    height: 100px;
+    display: table;
+    position: relative;
+    overflow: hidden;
+    text-align:center;
+    margin:0 auto;
+    background-color: beige;
+}
+
+
+.secondbox{
+  
+    width:900px;
+    height: 120px;
+    display: flex;
+    position: relative;
+    overflow: hidden;
+    text-align:center;
+    margin:0 auto;
+    float:left;
+}
+
+div.one{
+
+    width: 300px;
+    height: 120px;
+    margin-right: 2px;
+    padding: 0px;
+    font-size: 15px;
+    background-color: rgb(163, 228, 214);
+    background-size: 50px;
+   
+}
+div.two{
+    width: 200px;
+    height: 120px;
+    margin-right: 2px;
+    padding: 0px;
+    font-size: 13px;
+    background-color: rgb(129, 196, 181);
+    background-size: 50px;
+}
+
+
+div.three{
+    width:400px;
+    height: 120px;
+    margin-right: 2px;
+    padding: 0px;
+    font-size: 13px;
+    background-color: rgb(66, 158, 161);
+    background-size: 50px;
+}
+
+div.last p {
+    clear:both;
+    font-size: 13px;
+    display: block;
+    text-align: center;
+    margin-bottom: 10px;
+    word-break: break-word;
+}
