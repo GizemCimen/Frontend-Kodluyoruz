@@ -1,0 +1,25 @@
+* {
+    margin: 10;
+    padding: 10;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+    background-color:  #5A8F7B;
+}
+  .mail a{
+    color: aliceblue;
+  }
+  .sayfa a{
+    font-style: italic;
+    color: #000000;
+  }
+  .img img{
+    width: 200px; 
+    height:300px;
+    border: 5px solid rgb(39, 30, 30);
+    
+  }
+  ul{
+    list-style-type: none;
+    padding-left: 0;
+    margin-left: 15px;
+  }
